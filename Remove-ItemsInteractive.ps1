@@ -2,8 +2,8 @@
 
 )
 
-Write-Host -ForegroundColor Cyan -Value @"
-This utily deletes any folder or file you copy to it.
+Write-Host -ForegroundColor Cyan @"
+This utility deletes any folder or file you copy to it.
 WARNING: This utility will remove the items specified without asking for confirmation, so be careful.
 
 Insert a path per line.
